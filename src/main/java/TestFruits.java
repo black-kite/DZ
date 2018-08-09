@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class TestFruits {
 
-    //ТЕСТИМ ФРУКТЫ с GitHub пока подтупеваю!!!! 
+    //ТЕСТИМ ФРУКТЫ с GitHub пока подтупеваю!!!!!
     public static void main(String[] args) {
         Box<Apple> box = new Box<Apple>();
         Box<Orange> box1 = new Box<Orange>();
